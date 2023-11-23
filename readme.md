@@ -1,4 +1,4 @@
-# AI course2
+# AI course3 
 Stanford Computer Vision 수업을 듣고 정리한 내용입니다.  
 
 # Ref
