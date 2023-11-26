@@ -7,3 +7,5 @@ Stanford Computer Vision 수업을 듣고 정리한 내용입니다.
 * [textbook : Deep Learning](https://www.deeplearningbook.org/)
 * [textbook : github](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [깃헙 자료](https://github.com/cs231n/cs231n.github.io)
+* [Solution1](https://mahanfathi.github.io/CS231/) 
+* [Solution2](https://github.com/mantasu/cs231n)
